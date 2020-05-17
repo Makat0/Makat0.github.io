@@ -5,6 +5,9 @@
     <url>/2020/05/17/Test/</url>
     <content><![CDATA[<h2 id="这是一个测试"><a href="#这是一个测试" class="headerlink" title="这是一个测试"></a>这是一个测试</h2><p><strong>哈哈</strong></p>
 ]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
   </entry>
   <entry>
     <title>Test2</title>
@@ -16,6 +19,17 @@
 <li><input disabled="" type="checkbox"> 【1】 &emsp;或&#8195; //全角<br>【2】 &ensp;或&#8194; //半角<br>【3】 &nbsp;或&#160;  //半角之半角</li>
 </ul>
 ]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Test3</title>
+    <url>/2020/05/17/test3/</url>
+    <content><![CDATA[<h1 id="我复制的"><a href="#我复制的" class="headerlink" title="我复制的"></a>我复制的</h1>]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -34,10 +48,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>Test3</title>
-    <url>/2020/05/17/test3/</url>
-    <content><![CDATA[<h1 id="我复制的"><a href="#我复制的" class="headerlink" title="我复制的"></a>我复制的</h1>]]></content>
   </entry>
 </search>
